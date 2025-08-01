@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681173366559",
+    "project_id": "dry-needling-48b83",
+    "storage_bucket": "dry-needling-48b83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681173366559:android:9ecffa42eb564e2ad7e22a",
+        "android_client_info": {
+          "package_name": "com.example.dry_needling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-rt2Wz9OIwhJhHQd9U2JBvH9vFof2Q7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
